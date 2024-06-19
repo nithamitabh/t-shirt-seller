@@ -2,7 +2,9 @@ import React from 'react'
 
 const AIPicker = () => {
   return (
-    <div>AIPicker</div>
+    <div className='flex justify-center items-center font-semibold text-lg'>
+      Features coming soon
+    </div>
   )
 }
 
